@@ -1,7 +1,9 @@
 <div align='center'>
+<div width='150px' height='80px'>
 
 ![LOGO](graphql-gh.png)
 
+</div>
 </div>
 
 # This project is an introduction to GRAPH QL: Ecommerce
