@@ -1,8 +1,10 @@
 <div align='center'>
-![logo](graphql-gh.png)
+
+![LOGO](graphql-gh.png)
+
 </div>
 
-# This project is an introduction to GRAPH QL
+# This project is an introduction to GRAPH QL: Ecommerce
 
 > ⚠️ This project is under heavy development and deep dive! ⚠️
 
