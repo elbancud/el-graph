@@ -1,7 +1,7 @@
 <div align='center' display='flex'>
 
-![LOGO](graphql-gh.svg)
-![LOGO](typescript-gh.svg)
+![LOGO](./github/assets/graphql-gh.svg)
+![LOGO](./github/assets/typescript-gh.svg)
 
 </div>
 
