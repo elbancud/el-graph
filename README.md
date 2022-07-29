@@ -1,14 +1,20 @@
-<div align='center'>
-    <img src='./graphql-gh.png' width=150 height=90/>
+<div align='center' display='flex'>
+
+![LOGO](graphql-gh.svg)
+![LOGO](typescript-gh.svg)
+
 </div>
 
 # This project is an introduction to GRAPH QL: Ecommerce
 
 > ⚠️ This project is under heavy development and deep dive! ⚠️
 
-> This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is an e-commerce from the user to client interaction.
+This utilizes [graph ql](https://graphql.org/) and full stack technology.
 
 ### Available Scripts: The usual
+
+> This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory & upon cloning, basic setup:
 
@@ -31,6 +37,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 [x] JWT
 [x] swr
 [x] context?
+[x] MYSQL
 ```
 
 **Note: this is a work in progress**
